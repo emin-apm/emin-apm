@@ -3,7 +3,7 @@
 
 # Hey there! 👋
 
-I'm Emin, a passionate programmer currently following the JavaScript curriculum at SoftUni University, which includes various modules from Basic to more Advanced concepts in the language. Over the past year, I have dedicated myself to honing my technical skills and expanding my knowledge in JavaScript,React , Node.js, MongoDB, and other cutting-edge technologies.
+I'm Emin, a passionate programmer currently following the JavaScript curriculum at SoftUni University, which includes various modules from Basic to more Advanced concepts in the language. Over the past year, I have dedicated myself to honing my technical skills and expanding my knowledge in JavaScript, React, Node.js, MongoDB, and other cutting-edge technologies.
 
 ## 💡 About Me
 
