@@ -28,7 +28,7 @@ I'm Emin, a passionate programmer currently following the JavaScript curriculum 
 [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)
 
 
-##💬 How to reach me
+## 💬 How to reach me
 
 - Email: eminapturaim@gmail.com
   
