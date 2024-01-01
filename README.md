@@ -30,7 +30,7 @@ I'm Emin, a passionate programmer currently following the JavaScript curriculum 
 
 ## How to reach me
 
-- Email: todor.yadkov@gmail.com
+- Email: eminapturaim@gmail.com
   
 
 Feel free to explore my repositories and provide feedback. I'm always eager to learn and improve!
