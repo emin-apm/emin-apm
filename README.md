@@ -23,12 +23,17 @@ I am Emin, a passionate programmer with a comprehensive background in JavaScript
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://getbootstrap.com/)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
+[![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org/)
 [![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
 [![Express.js](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://firebase.google.com/)
+[![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://vitejs.dev/)
 [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+
 
 
 
