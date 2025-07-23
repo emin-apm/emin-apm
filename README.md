@@ -3,7 +3,9 @@
 
 # Hey there! 👋
 
-I am Emin, a passionate programmer with a comprehensive background in JavaScript, having completed the rigorous curriculum at SoftUni University. Over the past year, I have dedicated myself to honing my technical skills and expanding my knowledge in JavaScript, React, Angular, Node.js, MongoDB, and other cutting-edge technologies. I am currently engaged in the Tech Lead Academy 2 internship, where I am applying my skills to real-world projects and gaining invaluable industry experience.
+I’m Emin, a passionate programmer with a strong foundation in JavaScript, honed through completing the rigorous SoftUni University curriculum. Over the past year, I’ve dedicated myself to sharpening my skills and expanding my expertise in modern technologies like React, Angular, Node.js, and MongoDB.
+
+Currently, I’m gaining hands-on industry experience as part of the Tech Lead Academy 2 internship, working on real-world projects and continuously growing as a developer.
 
 ## 💡 About Me
 
