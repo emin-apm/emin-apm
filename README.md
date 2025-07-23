@@ -32,7 +32,7 @@ I am Emin, a passionate programmer with a comprehensive background in JavaScript
 ## 💬 How to reach me
 
 - Email: eminapturaim@gmail.com
-- LinkedIn: https://www.linkedin.com/in/emin-ap/
+- LinkedIn: https://www.linkedin.com/in/emin-apm/
   
 
 Feel free to explore my repositories and provide feedback. I'm always eager to learn and improve!
