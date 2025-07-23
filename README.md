@@ -24,7 +24,6 @@ Currently, I’m gaining hands-on industry experience as part of the Tech Lead A
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://getbootstrap.com/)
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
 [![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org/)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/) 
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
@@ -38,11 +37,15 @@ Currently, I’m gaining hands-on industry experience as part of the Tech Lead A
 
 
 
-## 💬 How to reach me
+## 💬 How to Reach Me
 
-- Email: eminapturaim@gmail.com
-- LinkedIn: https://www.linkedin.com/in/emin-apm/
+- 📧 Email: [eminapturaim@gmail.com](mailto:eminapturaim@gmail.com)  
+- 🔗 LinkedIn: [emin-apm](https://www.linkedin.com/in/emin-apm/)
+
   
+I’m open to new projects, collaborations, and networking — feel free to reach out!
+
+----
 
 Feel free to explore my repositories and provide feedback. I'm always eager to learn and improve!
 
