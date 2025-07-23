@@ -25,7 +25,7 @@ I am Emin, a passionate programmer with a comprehensive background in JavaScript
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
 [![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org/)
 [![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/) React Query
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
 [![Express.js](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
