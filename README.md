@@ -24,8 +24,9 @@ Currently, I’m gaining hands-on industry experience as part of the Tech Lead A
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://getbootstrap.com/)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
 [![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org/)
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/) 
+[![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
 [![Express.js](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
@@ -33,6 +34,7 @@ Currently, I’m gaining hands-on industry experience as part of the Tech Lead A
 [![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://vitejs.dev/)
 [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+
 
 
 
