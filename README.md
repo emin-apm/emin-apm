@@ -19,6 +19,7 @@ I am Emin, a passionate programmer with a comprehensive background in JavaScript
 [![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
 [![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
