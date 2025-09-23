@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-“I’m Emin, a JavaScript developer with hands-on experience in building full-stack applications using React, Angular, Node.js, and MongoDB. I combine strong technical skills with practical teamwork experience gained through SoftUni and Tech Lead Academy projects.”
+I’m Emin, a JavaScript developer with hands-on experience in building full-stack applications using React, Angular, Node.js, and MongoDB. I combine strong technical skills with practical teamwork experience gained through SoftUni and Tech Lead Academy projects.
 
 Currently, I’m gaining hands-on experience at Tech Lead Academy 2, where I contribute to real-world projects, strengthen my problem-solving skills, and collaborate in a team-driven environment. I’m eager to apply my knowledge to impactful software solutions and grow as a professional developer.
 
