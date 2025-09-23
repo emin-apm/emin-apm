@@ -1,17 +1,17 @@
 # Hey there! 👋
 
-I’m Emin, a passionate programmer with a strong foundation in JavaScript, built through completing the rigorous SoftUni curriculum. Over the past year, I’ve deepened my expertise in modern technologies such as React, Angular, Node.js, and MongoDB.
+“I’m Emin, a JavaScript developer with hands-on experience in building full-stack applications using React, Angular, Node.js, and MongoDB. I combine strong technical skills with practical teamwork experience gained through SoftUni and Tech Lead Academy projects.”
 
 Currently, I’m gaining hands-on experience at Tech Lead Academy 2, where I contribute to real-world projects, strengthen my problem-solving skills, and collaborate in a team-driven environment. I’m eager to apply my knowledge to impactful software solutions and grow as a professional developer.
 
 ## 💡 About Me
 
-- 💪 I'm not just into coding; I'm also a sports enthusiast!
-- ⚡ I'm always open to new opportunities to expand my skill set.
+- 💪 I bring the same discipline and focus from sports into my coding journey.
+- ⚡ I enjoy tackling challenges and continuously learning new technologies.
 
 ## 🚀 Current Focus
 
-- 🎯 **Goal:** Finding a job and kickstarting my career to provide value through my coding expertise.
+- 🎯 **Goal:** Contribute to impactful software projects where I can apply my problem-solving skills, grow as a developer, and deliver value to users and businesses.
 
 ## 🔧 Technologies & Tools
 
